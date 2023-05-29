@@ -18,5 +18,5 @@ Dashboard of the top performing outfield players in Fantasy Premier League 2022-
 - **A vs xA** (Assists vs Expected Assists)
 ![xA](img/img4.jpg)
 
-- **GI vs xGI** (Goal Involvements (Goals+Assists vs Expected Goal Involvements)
+- **GI vs xGI** (Goal Involvements [Goals+Assists] vs Expected Goal Involvements)
 ![ICT Index](img/img5.jpg)
